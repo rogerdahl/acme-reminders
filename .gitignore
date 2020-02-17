@@ -1,0 +1,5 @@
+db.sqlite
+settings.py
+*.pyc
+.idea
+.idea_modules
